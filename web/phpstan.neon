@@ -1,0 +1,6 @@
+parameters:
+    autoload_directories:
+        - src/App
+    autoload_files:
+        - src/App/app.php
+        - vendor/autoload.php
