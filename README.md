@@ -1,4 +1,4 @@
-# Code Challenge - Seven Senders
+# Code
 
 ## Install prerequisites
 
